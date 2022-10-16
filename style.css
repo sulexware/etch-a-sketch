@@ -1,1 +1,24 @@
 /** Style used for the etch-a-sketch program **/
+
+body{
+    margin: 0;
+}
+
+.box {
+    padding: 16px;
+    border: 1px solid rgb(238, 229, 229);
+}
+
+#container {
+   width: 960px;
+   display: flex;
+   flex-wrap: wrap;
+}
+/*
+.box:hover {
+    background-color: indigo;
+}
+*/
+.shadeBox {
+    background-color: indigo;
+}
