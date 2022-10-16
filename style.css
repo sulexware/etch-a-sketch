@@ -22,3 +22,9 @@ body{
 .shadeBox {
     background-color: indigo;
 }
+
+#btnSize {
+    font-size: 14px;
+    margin: 10px;
+    padding: 8px 16px;
+}
